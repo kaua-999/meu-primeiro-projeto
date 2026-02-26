@@ -1,5 +1,5 @@
 # meu-primeiro-projeto
-nome do aluno
-curso back end
+nome do kauã
+Curso: Backend
 descrição:
-esse é meu primeiro projeto
+Este é meu primeiro projeto usando GitHub sem instalar o Git.
